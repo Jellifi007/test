@@ -1,19 +1,19 @@
 [
     {
+        "guid": "8f97371f-8617-463c-9859-a33072182494",
+        "name": "PhoenixAdult",
+        "description": "This metadata provider helps fill Jellyfin/Emby with information for your adult videos by pulling from the original site.",
+        "overview": "Manage Your Adult Videos in Jellyfin/Emby",
+        "owner": "DirtyRacer",
         "category": "Metadata",
-        "guid": "35eab8ba-99ab-46ee-a355-4ee579a71422",
-        "name": "testname",
-        "description": "This is a test.",
-        "owner": "testOwner",
-        "overview": "Do a test",
         "versions": [
             {
-                "checksum": "1f752699b5cbb0705720fff8b1fcebbc",
-                "changelog": "Added Latest Emby Support (4.6); Added Socks5 Proxy Support; Minor Changes",
+                "version": "2.6.2.47",
+                "changelog": "Tests",
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/DirtyRacer1337/Jellyfin.Plugin.PhoenixAdult/releases/download/nightly/Jellyfin.Plugin.PhoenixAdult.zip",
-                "timestamp": "2022-06-20 13:15:54",
-                "version": "2.6.2.46"
+                "checksum": "1f752699b5cbb0705720fff8b1fcebbc",
+                "timestamp": "2022-01-08T17:21:56Z"
             }
         ]
     }
