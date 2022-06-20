@@ -2,18 +2,18 @@
     {
         "category": "Metadata",
         "guid": "35eab8ba-99ab-46ee-a355-4ee579a71422",
-        "name": "Test name",
-        "description": "Test description",
-        "owner": "Test owner",
-        "overview": "Test overview",
+        "name": "testname",
+        "description": "This is a test.",
+        "owner": "testOwner",
+        "overview": "Do a test",
         "versions": [
             {
                 "checksum": "1f752699b5cbb0705720fff8b1fcebbc",
-                "changelog": "Test changelog",
+                "changelog": "Added Latest Emby Support (4.6); Added Socks5 Proxy Support; Minor Changes",
                 "targetAbi": "10.8.0.0",
                 "sourceUrl": "https://github.com/DirtyRacer1337/Jellyfin.Plugin.PhoenixAdult/releases/download/nightly/Jellyfin.Plugin.PhoenixAdult.zip",
                 "timestamp": "2022-06-20 13:15:54",
-                "version": "nightly"
+                "version": "2.6.2.46"
             }
         ]
     }
